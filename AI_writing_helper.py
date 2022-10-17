@@ -20,11 +20,11 @@ q_gui = CreateQGUI(title="AI写作外挂",
                    tab_names=["Key","续写","病句","作文","摘要","古诗","对联","改写","词语","押韵","组词"],
                    style=QStyle.lumen)
 
-q_gui.set_navigation_about(author="郭睆（huàn）",
+q_gui.set_navigation_about(author="kevin&super_he",
                            version="1.3.2",
-                           github_url="https://github.com/guohuan78",
-                           bilibili_url="https://space.bilibili.com/518491096?spm_id_from=333.1007.0.0",
-                           blog_url="https://guohuan78.github.io/"
+                           github_url="https://github.com/Heffie199",
+                           bilibili_url="",
+                           blog_url="https://blog.csdn.net/qq_31532979?spm=1000.2115.3001.5343"
                         )
 
 q_gui.set_navigation_info(title="使用方式", info="右侧文本框中填写\n标签页可选择功能")

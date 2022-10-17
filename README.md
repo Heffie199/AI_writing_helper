@@ -32,6 +32,9 @@ qgui 版本 0.6.3
 pip install qgui
 ```
 
+pip install --upgrade wenxin-api
+python -m pip install qgui -i https://mirrors.bfsu.edu.cn/pypi/web/simple
+
 其他用到的库：requests，json，webbrowser，os
 
 ### 运行源码
